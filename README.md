@@ -1,30 +1,24 @@
-# React + TypeScript + Vite
+# Web Galeria
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação React que exibe uma galeria de imagens interativas, Tooltips de navegação e um rodapé com informações adicionais.
 
-Currently, two official plugins are available:
+## Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Expanding the ESLint configuration
+## Como Instalar
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+1. Clone o repositório do GitHub.
+2. Navegue até o diretório do projeto.
+3. Instale as dependências com `npm install`.
+4. Rode o servidor de desenvolvimento com `npm start`.
 
-- Configure the top-level `parserOptions` property like this:
+## Link do Site
+[Web Galeria](http://seu-site.com)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+![webGalery](https://github.com/user-attachments/assets/e5c6c4dc-869f-4335-8588-83158a50dd48)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Quem Fez
+Este projeto foi desenvolvido por [Michael Eduardo](https://github.com/Michaeleduardoo).
