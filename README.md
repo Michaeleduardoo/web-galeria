@@ -16,7 +16,7 @@ Este projeto é uma aplicação React que exibe uma galeria de imagens interativ
 4. Rode o servidor de desenvolvimento com `npm start`.
 
 ## Link do Site
-[Web Galeria](http://seu-site.com)
+[Web Galeria](https://webgaleria.netlify.app/)
 
 ![webGalery](https://github.com/user-attachments/assets/e5c6c4dc-869f-4335-8588-83158a50dd48)
 
